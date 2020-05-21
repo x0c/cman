@@ -16,5 +16,12 @@ $ cman <命令>
 $ cman <命令> | more
 ```
 
+又在 cman.py  的基础上改写了个 chelp，安装方式同上：
+
+```bash
+$ chelp ls
+# 相当于 ls --help 中文版
+```
+
 ![](images/example.png)
 

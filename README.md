@@ -16,7 +16,7 @@ $ cman <命令>
 $ cman <命令> | more
 ```
 
-又在 cman.py  的基础上改写了个 chelp，安装方式同上：
+又在 cman.py  的基础上改写了个 chelp.py，安装方式同上：
 
 ```bash
 $ chelp ls

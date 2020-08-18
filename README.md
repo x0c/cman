@@ -1,5 +1,5 @@
 # cman
-一个 Linux 命令手册（man）对照翻译工具，使用谷歌翻译（国内有效），可以替代 man 命令。
+一个 Linux 命令手册（man命令）对照翻译工具，使用谷歌翻译（https://translate.google.cn/）。
 
 **安装**：
 
